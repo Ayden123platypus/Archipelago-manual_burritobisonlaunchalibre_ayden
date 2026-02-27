@@ -30,6 +30,18 @@
             ],
             "default": true
         }
+    },
+    {
+        "100_percent":{
+            "display_name": "100%?",
+            "description": "Are you doing 100%?",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": true
+        }
     }
-
 }
