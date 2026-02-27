@@ -3643,5 +3643,13 @@
     ],
     "requires": ""
   }
-
+  {
+    "name": "100%",
+    "region": "Main",
+    "victory": true,
+    "category": [
+      "100%"
+    ],
+    "requires": ""
+  },
 ]
