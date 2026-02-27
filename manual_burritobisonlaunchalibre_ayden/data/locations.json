@@ -24,6 +24,15 @@
     "requires": ""
   },
   {
+    "name": "La Bestia", 
+    "region": "Rift",
+    "category": [
+     "Characters",
+     "100%"
+     ],
+    "requires": ""
+  }
+  {
     "name": "Wall 1",
     "region": "Main",
     "category": [
@@ -234,11 +243,3044 @@
     ],
     "requires": ""
   },
+ {
+    "name": "Rift Level 11",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 12",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 13",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 14",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 15",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 16",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 17",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 18",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 19",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 20",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 21",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 22",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 23",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 24",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 25",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 26",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 27",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 28",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 29",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 30",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 31",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 32",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 33",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 34",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 35",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 36",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 37",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 38",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 39",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 40",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 41",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 42",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 43",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 44",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 45",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 46",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 47",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 48",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 49",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 50",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 51",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 52",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 53",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 54",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 55",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 56",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 57",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 58",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 59",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 60",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 61",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 62",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 63",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 64",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 65",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 66",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 67",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 68",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 69",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 70",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 71",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 72",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 73",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 74",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 75",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 76",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 77",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 78",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 79",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 80",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 81",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 82",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 83",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 84",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 85",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 86",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 87",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 88",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 89",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 90",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 91",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 92",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 93",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 94",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 95",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 96",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 97",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 98",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 99",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 100",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 101",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 102",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 103",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 104",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 105",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 106",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 107",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 108",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 109",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 110",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 111",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 112",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 113",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 114",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 115",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 116",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 117",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 118",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 119",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 120",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 121",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 122",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 123",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 124",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 125",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 126",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 127",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 128",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 129",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 130",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 131",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 132",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 133",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 134",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 135",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 136",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 137",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 138",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 139",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 140",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 141",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 142",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 143",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 144",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 145",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 146",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 147",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 148",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 149",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 150",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 151",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 152",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 153",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 154",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 155",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 156",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 157",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 158",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 159",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 160",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 161",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 162",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 163",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 164",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 165",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 166",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 167",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 168",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 169",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 170",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 171",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 172",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 173",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 174",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 175",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 176",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 177",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 178",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 179",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 180",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 181",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 182",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 183",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 184",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 185",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 186",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 187",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 188",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 189",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 190",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 191",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 192",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 193",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 194",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 195",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 196",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 197",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 198",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 199",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 200",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 201",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 202",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 203",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 204",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 205",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 206",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 207",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 208",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 209",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 210",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 211",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 212",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 213",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 214",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 215",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 216",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 217",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 218",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 219",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 220",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 221",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 222",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 223",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 224",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 225",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 226",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 227",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 228",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 229",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 230",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 231",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 232",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 233",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 234",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 235",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 236",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 237",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 238",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 239",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 240",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 241",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 242",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 243",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 244",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 245",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 246",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 247",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 248",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 249",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 250",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 251",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 252",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 253",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 254",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 255",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 256",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 257",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 258",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 259",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 260",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 261",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 262",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 263",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 264",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 265",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 266",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 267",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 268",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 269",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 270",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 271",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 272",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 273",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 274",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 275",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 276",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 277",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 278",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 279",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 280",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 281",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 282",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 283",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 284",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 285",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 286",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 287",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 288",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 289",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 290",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 291",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 292",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 293",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 294",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 295",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 296",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 297",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 298",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 299",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 300",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 301",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 302",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 303",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 304",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 305",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 306",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 307",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 308",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 309",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 310",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 311",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 312",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 313",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 314",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 315",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 316",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 317",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 318",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 319",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 320",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 321",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 322",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 323",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 324",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 325",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 326",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 327",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 328",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 329",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 330",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 331",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 332",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 333",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 334",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 335",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 336",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rift Level 337",
+    "region": "Rift",
+    "category": [
+      "Rift",
+      "100%"
+    ],
+    "requires": ""
+  },
   {
     "name": "Sweet Time Willy",
     "region": "Rift",
     "category": [
       "???? Shop Items"
+    ],
+    "requires": ""
+  },
+ {
+    "name": "Rainbow Gummies",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "requires": ""
+  },
+{
+    "name": "Let's See What's on the Other Side",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "requires": ""
+  },
+{
+    "name": "The Great Gumsby",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "requires": ""
+  },
+{
+    "name": "A Step Back",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "requires": ""
+  },
+{
+    "name": "Swap-A-Launcha",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "requires": ""
+  },
+{
+    "name": "Distancing",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "requires": ""
+  },
+{
+    "name": "Buffed Out Ready",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "requires": ""
+  },
+{
+    "name": "The Gummy Bag",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "requires": ""
+  },
+{
+    "name": "Buffed Out Infinity",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "requires": ""
+  },
+{
+    "name": "Camera Stabilizer",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
     ],
     "requires": ""
   },
@@ -258,4 +3300,348 @@
     ],
     "requires": ""
   }
+  {
+    "name": "Simple Sopa De Tortilla",
+    "region": "Rift",
+    "category": [
+      "Recipes",
+      "100%" 
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Huevos Rancheros Express",
+    "region": "Rift",
+    "category": [
+      "Recipes",
+      "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "count": "1",
+    "name": "Elastic Cables Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Rocket Slam Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Bounciness Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Speedometer Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Slippery Lotion Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Flavour Master Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Pickpocket Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Luck Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Bodybuilding Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Police Control Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Doors Destroyer Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Cake Eater Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Cakesplosion Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Aerodynamics Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Gummy Booster Maxed Out",
+    "category": [
+      "Maxed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+ {
+    "count": "1",
+    "name": "Elastic Cables Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Rocket Slam Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Bounciness Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Speedometer Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Slippery Lotion Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Flavour Master Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Pickpocket Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Luck Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Bodybuilding Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Police Control Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Doors Destroyer Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Cake Eater Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Cakesplosion Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Aerodynamics Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  },
+  {
+    "count": "1",
+    "name": "Gummy Booster Max Buffed Out",
+    "category": [
+      "Max Buffed Out Upgrades"
+     "100%"
+    ],
+    "requires": ""
+  }
+  },
+  {
+    "count": "1",
+    "name": "Stopwatch Mode Level 1",
+    "category": [
+      "Stopwatch Mode"
+     "100%"
+    ],
+    "requires": ""
+  }
+  {
+    "count": "1",
+    "name": "Stopwatch Mode Level 2",
+    "category": [
+      "Stopwatch Mode"
+     "100%"
+    ],
+    "requires": ""
+  }
+  {
+    "count": "1",
+    "name": "Stopwatch Mode Level 3",
+    "category": [
+      "Stopwatch Mode"
+     "100%"
+    ],
+    "requires": ""
+  }
+  {
+    "count": "1",
+    "name": "Stopwatch Mode Level 4",
+    "category": [
+      "Stopwatch Mode"
+     "100%"
+    ],
+    "requires": ""
+  }
+  {
+    "count": "1",
+    "name": "Stopwatch Mode Level 5",
+    "category": [
+      "Stopwatch Mode"
+     "100%"
+    ],
+    "requires": ""
+  }
+  {
+    "count": "1",
+    "name": "Stopwatch Mode Level 6",
+    "category": [
+      "Stopwatch Mode"
+     "100%"
+    ],
+    "requires": ""
+  }
+
 ]

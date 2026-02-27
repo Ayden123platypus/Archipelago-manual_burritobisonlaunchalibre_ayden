@@ -2,4 +2,7 @@
     "Rift": {
         "yaml_option": "Rift"
     },
+    "100%": {
+        "yaml_option": "100_percent"
+    },
 }

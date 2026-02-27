@@ -1,6 +1,31 @@
 [
   {
     "count": "1",
+    "name": "Pineapple Spank",
+    "category": [
+      "Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "El Pollo",
+    "category": [
+      "Characters"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "La Bestia",
+    "category": [
+      "Characters",
+      "100%"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Elastic Cables",
     "category": [
       "Upgrades"
@@ -106,6 +131,24 @@
   },
   {
     "count": "1",
+    "name": "Aerodynamics",
+    "category": [
+      "Upgrades",
+      "100%"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Gummy Booster",
+    "category": [
+      "Upgrades",
+      "100%"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
     "name": "Puncheus Pilot",
     "category": [
       "Special Bears"
@@ -186,6 +229,15 @@
   },
   {
     "count": 1,
+    "name": "Sticky Hands Bill",
+    "category": [
+      "Special Bears",
+      "100%"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
     "name": "Harry Bow-Tie",
     "category": [
       "Opponents"
@@ -224,6 +276,15 @@
     ],
     "useful": true
   },
+ {
+    "count": 1,
+    "name": "Jon Zzzena",
+    "category": [
+      "Opponents",
+      "100%"
+    ],
+    "useful": true
+  },
   {
     "count": 1,
     "name": "Chili Bomb",
@@ -253,6 +314,104 @@
     "name": "Pesos Pals",
     "category": [
       "Items"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Sweet Time Willy",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items"
+    ],
+    "useful": true
+  },
+ {
+    "name": "Rainbow Gummies",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "useful": true
+  },
+{
+    "name": "Let's See What's on the Other Side",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "useful": true
+  },
+{
+    "name": "The Great Gumsby",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "useful": true
+  },
+{
+    "name": "A Step Back",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "useful": true
+  },
+{
+    "name": "Swap-A-Launcha",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "useful": true
+  },
+{
+    "name": "Distancing",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "useful": true
+  },
+{
+    "name": "Buffed Out Ready",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "useful": true
+  },
+{
+    "name": "The Gummy Bag",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "useful": true
+  },
+{
+    "name": "Buffed Out Infinity",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
+    ],
+    "useful": true
+  },
+{
+    "name": "Camera Stabilizer",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items",
+      "100%"
     ],
     "useful": true
   }
