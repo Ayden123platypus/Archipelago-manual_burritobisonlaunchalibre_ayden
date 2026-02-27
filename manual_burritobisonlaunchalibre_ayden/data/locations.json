@@ -1,0 +1,261 @@
+[
+  {
+    "category": [
+      "Characters"
+    ],
+    "requires": "",
+    "name": "Burrito Bison",
+    "region": "Main"
+  },
+  {
+    "name": "Pineapple Spank",
+    "region": "Rift",
+    "category": [
+      "Characters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "El Pollo",
+    "region": "Main",
+    "category": [
+      "Characters"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wall 1",
+    "region": "Main",
+    "category": [
+      "Walls"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wall 2",
+    "region": "Main",
+    "category": [
+      "Walls"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wall 3",
+    "region": "Main",
+    "category": [
+      "Walls"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wall 4",
+    "region": "Main",
+    "category": [
+      "Walls"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wall 5",
+    "region": "Main",
+    "category": [
+      "Walls"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Town",
+    "region": "Main",
+    "category": [
+      "Areas"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Egypt",
+    "region": "Main",
+    "category": [
+      "Areas"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ruins",
+    "region": "Main",
+    "category": [
+      "Areas"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Industrial",
+    "region": "Main",
+    "category": [
+      "Areas"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Desert",
+    "region": "Main",
+    "category": [
+      "Areas"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cookinator Hit 1",
+    "region": "Main",
+    "category": [
+      "Cookinator"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cookinator Hit 2",
+    "region": "Main",
+    "category": [
+      "Cookinator"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cookinator Hit 3",
+    "region": "Main",
+    "category": [
+      "Cookinator"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cookinator Hit 4",
+    "region": "Main",
+    "category": [
+      "Cookinator"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cookinator Hit 5",
+    "region": "Main",
+    "category": [
+      "Cookinator"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cookinator Hit 6",
+    "region": "Main",
+    "victory": true,
+    "category": [
+      "Cookinator"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rift Level 1",
+    "region": "Rift",
+    "category": [
+      "Rift"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rift Level 2",
+    "region": "Rift",
+    "category": [
+      "Rift"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rift Level 3",
+    "region": "Rift",
+    "category": [
+      "Rift"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rift Level 4",
+    "region": "Rift",
+    "category": [
+      "Rift"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rift Level 5",
+    "region": "Rift",
+    "victory": true,
+    "category": [
+      "Rift"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rift Level 6",
+    "region": "Rift",
+    "category": [
+      "Rift"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rift Level 7",
+    "region": "Rift",
+    "category": [
+      "Rift"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rift 8",
+    "region": "Rift",
+    "category": [
+      "Rift"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rift Level 9",
+    "region": "Rift",
+    "category": [
+      "Rift"
+    ],
+    "requires": ""
+  },
+  {
+    "victory": true,
+    "region": "Rift",
+    "name": "Rift Level 10",
+    "category": [
+      "Rift"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sweet Time Willy",
+    "region": "Rift",
+    "category": [
+      "???? Shop Items"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Slightly Sweet Salsa",
+    "region": "Rift",
+    "category": [
+      "Recipes"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rustic Guacamole",
+    "region": "Rift",
+    "category": [
+      "Recipes"
+    ],
+    "requires": ""
+  }
+]

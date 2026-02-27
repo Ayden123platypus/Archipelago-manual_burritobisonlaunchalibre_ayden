@@ -1,0 +1,13 @@
+{
+  "Main": {
+    "connects_to": [
+      "Rift"
+    ],
+    "requires": "",
+    "starting": true
+  },
+  "Rift": {
+    "connects_to": [],
+    "requires": ""
+  }
+}
