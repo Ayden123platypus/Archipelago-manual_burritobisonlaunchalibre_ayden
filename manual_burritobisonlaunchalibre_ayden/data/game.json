@@ -3,5 +3,8 @@
   "game": "BurritoBisonLaunchaLibre",
   "creator": "Ayden",
   "filler_item_name": "Gummy",
-  "starting_items": ['Elastic Cables','Harry Bow-Tie']
+  "starting_items": [
+    "Elastic Cables",
+    "Harry Bow-Tie"
+  ]
 }
