@@ -8,7 +8,7 @@
                 Defeat Cookinator: Hit Cookinator 6 times and beat the game.
                 Rift Level 5: Get to Level 5 Rift.
                 Rift Level 10: Get to Level 10 Rift.
-                100%: Complete the ??? Shop, Stopwatch Mode Level 6, All Recipes, and Maxed Out and Buffed Out on all Upgrades."
+                100%: Complete the ??? Shop, Stopwatch Mode Level 6, get all Recipes, all Upgrades, all Opponents, and all Special Gummies."
             ],
             "display_name": "The End Objective",
             "description": "How to End your Randomized playthrough.",
@@ -43,17 +43,6 @@
         "Character_Randomization":{
             "display_name": "Character Randomization",
             "description": "Do you want to restrict characters to items?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": true
-        },
-        "Levels":{
-            "display_name": "",
-            "description": "Do you want to have a seperate item for each level of each upgrade, special gummy, opponent, and item? (Off = 1 item for each)",
             "type": "Toggle",
             "visibility": [
                 "simple_ui",

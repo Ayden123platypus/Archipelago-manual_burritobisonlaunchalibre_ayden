@@ -159,7 +159,7 @@
     "count": 1,
     "name": "Puncheus Pilot",
     "category": [
-      "Special Bears"
+      "Special Gummies"
     ],
     "progression": true
   },
@@ -167,7 +167,7 @@
     "count": 1,
     "name": "Lt. Jel E. Boom",
     "category": [
-      "Special Bears"
+      "Special Gummies"
     ],
     "progression": true
   },
@@ -175,7 +175,7 @@
     "count": 1,
     "name": "Wannabear",
     "category": [
-      "Special Bears"
+      "Special Gummies"
     ],
     "progression": true
   },
@@ -183,7 +183,7 @@
     "count": 1,
     "name": "Gumdalf",
     "category": [
-      "Special Bears"
+      "Special Gummies"
     ],
     "progression": true
   },
@@ -191,7 +191,7 @@
     "count": 1,
     "name": "Prickly Pair",
     "category": [
-      "Special Bears"
+      "Special Gummies"
     ],
     "progression": true
   },
@@ -199,7 +199,7 @@
     "count": 1,
     "name": "Dr. Wormageddon",
     "category": [
-      "Special Bears"
+      "Special Gummies"
     ],
     "progression": true
   },
@@ -207,7 +207,7 @@
     "count": 1,
     "name": "Hunny Potter",
     "category": [
-      "Special Bears"
+      "Special Gummies"
     ],
     "progression": true
   },
@@ -215,7 +215,7 @@
     "count": 1,
     "name": "Teddy Flare",
     "category": [
-      "Special Bears"
+      "Special Gummies"
     ],
     "progression": true
   },
@@ -223,7 +223,7 @@
     "count": 1,
     "name": "Robbear",
     "category": [
-      "Special Bears"
+      "Special Gummies"
     ],
     "progression": true
   },
@@ -231,7 +231,7 @@
     "count": 1,
     "name": "Jelly Roger",
     "category": [
-      "Special Bears"
+      "Special Gummies"
     ],
     "progression": true
   },
@@ -239,7 +239,7 @@
     "count": 1,
     "name": "Sticky Hands Bill",
     "category": [
-      "Special Bears",
+      "Special Gummies",
       "100%"
     ],
     "progression": true
@@ -326,335 +326,6 @@
     "progression": true
   },
   {
-    "count": 7,
-    "name": "Progressive Elastic Cables Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 9,
-    "name": "Progressive Rocket Slam Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 9,
-    "name": "Progressive Bounciness Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 9,
-    "name": "Progressive Speedometer Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 9,
-    "name": "Progressive Slippery Lotion Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 9,
-    "name": "Progressive Flavour Master Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 9,
-    "name": "Progressive Pickpocket Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 8,
-    "name": "Progressive Luck Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 9,
-    "name": "Progressive Bodybuilding Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 8,
-    "name": "Progressive Police Control Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 8,
-    "name": "Progressive Doors Destroyer Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 9,
-    "name": "Progressive Cake Eater Level",
-    "category": [
-      "Upgrades",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 8,
-    "name": "Progressive Cakesplosion Level",
-    "category": [
-      "Upgrades",
-      "Rift",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 5,
-    "name": "Progressive Aerodynamics Level",
-    "category": [
-      "Upgrades",
-      "100%",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 1,
-    "name": "Progressive Gummy Booster Level",
-    "category": [
-      "Upgrades",
-      "100%",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 7,
-    "name": "Progressive Puncheus Pilot Level",
-    "category": [
-      "Special Bears",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 7,
-    "name": "Progressive Lt. Jel E. Boom Level",
-    "category": [
-      "Special Bears",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 7,
-    "name": "Progressive Wannabear Level",
-    "category": [
-      "Special Bears",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 6,
-    "name": "Progressive Gumdalf Level",
-    "category": [
-      "Special Bears",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 6,
-    "name": "Progressive Prickly Pair Level",
-    "category": [
-      "Special Bears",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 5,
-    "name": "Progressive Dr. Wormageddon Level",
-    "category": [
-      "Special Bears",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 5,
-    "name": "Progressive Hunny Potter Level",
-    "category": [
-      "Special Bears",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 7,
-    "name": "Progressive Teddy Flare Level",
-    "category": [
-      "Special Bears",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 7,
-    "name": "Progressive Robbear Level",
-    "category": [
-      "Special Bears",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 7,
-    "name": "Progressive Jelly Roger Level",
-    "category": [
-      "Special Bears",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 4,
-    "name": "Progressive Sticky Hands Bill Level",
-    "category": [
-      "Special Bears",
-      "100%",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 8,
-    "name": "Progressive Harry Bow-Tie Level",
-    "category": [
-      "Opponents",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 7,
-    "name": "Progressive Bernerds Level",
-    "category": [
-      "Opponents",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 6,
-    "name": "Progressive Beaster Bunny Level",
-    "category": [
-      "Opponents",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 5,
-    "name": "Progressive Villaina Ice Level",
-    "category": [
-      "Opponents",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 4,
-    "name": "Progressive Jawbreaker V3.0 Level",
-    "category": [
-      "Opponents",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 1,
-    "name": "Progressive Jon Zzzena Level",
-    "category": [
-      "Opponents",
-      "100%",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 3,
-    "name": "Progressive Chili Bomb Level",
-    "category": [
-      "Items",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 3,
-    "name": "Progressive Rocket Fuel Level",
-    "category": [
-      "Items",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 3,
-    "name": "Progressive Tacorazzi Level",
-    "category": [
-      "Items",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
-    "count": 3,
-    "name": "Progressive Pesos Pals Level",
-    "category": [
-      "Items",
-      "Levels"
-     ],
-    "progression": true
- },
-  {
     "count": 1,
     "name": "Sweet Time Willy",
     "region": "Rift",
@@ -673,7 +344,7 @@
     ],
     "progression": true
   },
-{
+  {
     "count": 1,
     "name": "Let's See What's on the Other Side",
     "region": "Rift",
@@ -683,7 +354,7 @@
     ],
     "progression": true
   },
-{
+  {
     "count": 1,
     "name": "The Great Gumsby",
     "region": "Rift",
@@ -693,7 +364,7 @@
     ],
     "progression": true
   },
-{
+  {
     "count": 1,
     "name": "A Step Back",
     "region": "Rift",
@@ -703,7 +374,7 @@
     ],
     "progression": true
   },
-{
+  {
     "count": 1,
     "name": "Swap-A-Launcha",
     "region": "Rift",
@@ -713,7 +384,7 @@
     ],
     "progression": true
   },
-{
+  {
     "count": 1,
     "name": "Distancing",
     "region": "Rift",
@@ -723,7 +394,7 @@
     ],
     "progression": true
   },
-{
+  {
     "count": 1,
     "name": "Buffed Out Ready",
     "region": "Rift",
@@ -733,7 +404,7 @@
     ],
     "progression": true
   },
-{
+  {
     "count": 1,
     "name": "The Gummy Bag",
     "region": "Rift",
@@ -743,7 +414,7 @@
     ],
     "progression": true
   },
-{
+  {
     "count": 1,
     "name": "Buffed Out Infinity",
     "region": "Rift",
@@ -753,7 +424,7 @@
     ],
     "progression": true
   },
-{
+  {
     "count": 1,
     "name": "Camera Stabilizer",
     "region": "Rift",

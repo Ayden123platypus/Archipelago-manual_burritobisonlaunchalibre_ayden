@@ -7,11 +7,5 @@
     },
     "Characters": {
         "yaml_option": "Character_Randomization"
-    },
-    "Upgrades": {
-        "yaml_option": "!Upgrade_Levels"
-    },
-    "Levels": {
-        "yaml_option": "Upgrade_Levels"
     }
 }

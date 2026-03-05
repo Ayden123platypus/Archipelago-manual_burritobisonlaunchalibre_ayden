@@ -3,9 +3,9 @@
     "category": [
       "Characters"
     ],
-    "requires": "",
     "name": "Burrito Bison",
-    "region": "Main"
+    "region": "Main",
+    "requires": ""
   },
   {
     "name": "Pineapple Spank",
@@ -13,7 +13,7 @@
     "category": [
       "Characters"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Burrito Bison)}"
   },
   {
     "name": "El Pollo",
@@ -21,7 +21,7 @@
     "category": [
       "Characters"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(El Pollo)}"
   },
   {
     "name": "La Bestia",
@@ -30,6 +30,14 @@
      "Characters",
      "100%"
      ],
+    "requires": "({canReachLocation(Slightly Sweet Salsa)} and {canReachLocation(Rustic Guacamole)} and {canReachLocation(Simple Sopa De Tortilla)} and {canReachLocation(Huevos Rancheros Express)} and {canReachLocation(El Pollo)})"
+  },
+  {
+    "name": "Area 1",
+    "region": "Main",
+    "category": [
+      "Areas"
+    ],
     "requires": ""
   },
   {
@@ -38,7 +46,15 @@
     "category": [
       "Walls"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Area 1)}"
+  },
+  {
+    "name": "Area 2",
+    "region": "Main",
+    "category": [
+      "Areas"
+    ],
+    "requires": "{canReachLocation(Wall 1)}"
   },
   {
     "name": "Wall 2",
@@ -46,7 +62,15 @@
     "category": [
       "Walls"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Area 2)}"
+  },
+  {
+    "name": "Area 3",
+    "region": "Main",
+    "category": [
+      "Areas"
+    ],
+    "requires": "{canReachLocation(Wall 2)}"
   },
   {
     "name": "Wall 3",
@@ -54,7 +78,15 @@
     "category": [
       "Walls"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Area 3)}"
+  },
+  {
+    "name": "Area 4",
+    "region": "Main",
+    "category": [
+      "Areas"
+    ],
+    "requires": "{canReachLocation(Wall 3)}"
   },
   {
     "name": "Wall 4",
@@ -62,7 +94,15 @@
     "category": [
       "Walls"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Area 4)}"
+  },
+  {
+    "name": "Area 5",
+    "region": "Main",
+    "category": [
+      "Areas"
+    ],
+    "requires": "{canReachLocation(Wall 4)}"
   },
   {
     "name": "Wall 5",
@@ -70,47 +110,7 @@
     "category": [
       "Walls"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Town",
-    "region": "Main",
-    "category": [
-      "Areas"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Egypt",
-    "region": "Main",
-    "category": [
-      "Areas"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Ruins",
-    "region": "Main",
-    "category": [
-      "Areas"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Industrial",
-    "region": "Main",
-    "category": [
-      "Areas"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Desert",
-    "region": "Main",
-    "category": [
-      "Areas"
-    ],
-    "requires": ""
+    "requires": "{canReachLocation(Area 5)}"
   },
   {
     "name": "Cookinator Hit 1",
@@ -118,7 +118,7 @@
     "category": [
       "Cookinator"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Wall 5)}"
   },
   {
     "name": "Cookinator Hit 2",
@@ -126,7 +126,7 @@
     "category": [
       "Cookinator"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Cookinator Hit 1)}"
   },
   {
     "name": "Cookinator Hit 3",
@@ -134,7 +134,7 @@
     "category": [
       "Cookinator"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Cookinator Hit 2)}"
   },
   {
     "name": "Cookinator Hit 4",
@@ -142,7 +142,7 @@
     "category": [
       "Cookinator"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Cookinator Hit 3)}"
   },
   {
     "name": "Cookinator Hit 5",
@@ -150,7 +150,7 @@
     "category": [
       "Cookinator"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Cookinator Hit 4)}"
   },
   {
     "name": "Defeat Cookinator",
@@ -159,7 +159,7 @@
     "category": [
       "Cookinator"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Cookinator Hit 5)}"
   },
   {
     "name": "Rift Level 1",
@@ -167,7 +167,7 @@
     "category": [
       "Rift"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
   {
     "name": "Rift Level 2",
@@ -175,7 +175,7 @@
     "category": [
       "Rift"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 1)}"
   },
   {
     "name": "Rift Level 3",
@@ -183,7 +183,7 @@
     "category": [
       "Rift"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 2)}"
   },
   {
     "name": "Rift Level 4",
@@ -191,7 +191,7 @@
     "category": [
       "Rift"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 3)}"
   },
   {
     "name": "Rift Level 5",
@@ -200,7 +200,7 @@
     "category": [
       "Rift"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 4)}"
   },
   {
     "name": "Rift Level 6",
@@ -208,7 +208,7 @@
     "category": [
       "Rift"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 5)}"
   },
   {
     "name": "Rift Level 7",
@@ -216,7 +216,7 @@
     "category": [
       "Rift"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 6)}"
   },
   {
     "name": "Rift 8",
@@ -224,7 +224,7 @@
     "category": [
       "Rift"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 7)}"
   },
   {
     "name": "Rift Level 9",
@@ -232,7 +232,7 @@
     "category": [
       "Rift"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 8)}"
   },
   {
     "victory": true,
@@ -241,7 +241,7 @@
     "category": [
       "Rift"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 9)}"
   },
   {
     "name": "Rift Level 11",
@@ -250,7 +250,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 10)}"
   },
   {
     "name": "Rift Level 12",
@@ -259,7 +259,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 11)}"
   },
   {
     "name": "Rift Level 13",
@@ -268,7 +268,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 12)}"
   },
   {
     "name": "Rift Level 14",
@@ -277,7 +277,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 13)}"
   },
   {
     "name": "Rift Level 15",
@@ -286,7 +286,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 14)}"
   },
   {
     "name": "Rift Level 16",
@@ -295,7 +295,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 15)}"
   },
   {
     "name": "Rift Level 17",
@@ -304,7 +304,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 16)}"
   },
   {
     "name": "Rift Level 18",
@@ -313,7 +313,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 17)}"
   },
   {
     "name": "Rift Level 19",
@@ -322,7 +322,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 18)}"
   },
   {
     "name": "Rift Level 20",
@@ -331,7 +331,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 19)}"
   },
   {
     "name": "Rift Level 21",
@@ -340,7 +340,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 20)}"
   },
   {
     "name": "Rift Level 22",
@@ -349,7 +349,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 21)}"
   },
   {
     "name": "Rift Level 23",
@@ -358,7 +358,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 22)}"
   },
   {
     "name": "Rift Level 24",
@@ -367,7 +367,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 23)}"
   },
   {
     "name": "Rift Level 25",
@@ -376,7 +376,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 24)}"
   },
   {
     "name": "Rift Level 26",
@@ -385,7 +385,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 25)}"
   },
   {
     "name": "Rift Level 27",
@@ -394,7 +394,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 26)}"
   },
   {
     "name": "Rift Level 28",
@@ -403,7 +403,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 27)}"
   },
   {
     "name": "Rift Level 29",
@@ -412,7 +412,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 28)}"
   },
   {
     "name": "Rift Level 30",
@@ -421,7 +421,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 29)}"
   },
   {
     "name": "Rift Level 31",
@@ -430,7 +430,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 30)}"
   },
   {
     "name": "Rift Level 32",
@@ -439,7 +439,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 31)}"
   },
   {
     "name": "Rift Level 33",
@@ -448,7 +448,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 32)}"
   },
   {
     "name": "Rift Level 34",
@@ -457,7 +457,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 33)}"
   },
   {
     "name": "Rift Level 35",
@@ -466,7 +466,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 34)}"
   },
   {
     "name": "Rift Level 36",
@@ -475,7 +475,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 35)}"
   },
   {
     "name": "Rift Level 37",
@@ -484,7 +484,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 36)}"
   },
   {
     "name": "Rift Level 38",
@@ -493,7 +493,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 37)}"
   },
   {
     "name": "Rift Level 39",
@@ -502,7 +502,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 38)}"
   },
   {
     "name": "Rift Level 40",
@@ -511,7 +511,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 39)}"
   },
   {
     "name": "Rift Level 41",
@@ -520,7 +520,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 40)}"
   },
   {
     "name": "Rift Level 42",
@@ -529,7 +529,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 41)}"
   },
   {
     "name": "Rift Level 43",
@@ -538,7 +538,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 42)}"
   },
   {
     "name": "Rift Level 44",
@@ -547,7 +547,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 43)}"
   },
   {
     "name": "Rift Level 45",
@@ -556,7 +556,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 44)}"
   },
   {
     "name": "Rift Level 46",
@@ -565,7 +565,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 45)}"
   },
   {
     "name": "Rift Level 47",
@@ -574,7 +574,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 46)}"
   },
   {
     "name": "Rift Level 48",
@@ -583,7 +583,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 47)}"
   },
   {
     "name": "Rift Level 49",
@@ -592,7 +592,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 48)}"
   },
   {
     "name": "Rift Level 50",
@@ -601,7 +601,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 49)}"
   },
   {
     "name": "Rift Level 51",
@@ -610,7 +610,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 50)}"
   },
   {
     "name": "Rift Level 52",
@@ -619,7 +619,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 51)}"
   },
   {
     "name": "Rift Level 53",
@@ -628,7 +628,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 52)}"
   },
   {
     "name": "Rift Level 54",
@@ -637,7 +637,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 53)}"
   },
   {
     "name": "Rift Level 55",
@@ -646,7 +646,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 54)}"
   },
   {
     "name": "Rift Level 56",
@@ -655,7 +655,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 55)}"
   },
   {
     "name": "Rift Level 57",
@@ -664,7 +664,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 56)}"
   },
   {
     "name": "Rift Level 58",
@@ -673,7 +673,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 57)}"
   },
   {
     "name": "Rift Level 59",
@@ -682,7 +682,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 58)}"
   },
   {
     "name": "Rift Level 60",
@@ -691,7 +691,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 59)}"
   },
   {
     "name": "Rift Level 61",
@@ -700,7 +700,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 60)}"
   },
   {
     "name": "Rift Level 62",
@@ -709,7 +709,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 61)}"
   },
   {
     "name": "Rift Level 63",
@@ -718,7 +718,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 62)}"
   },
   {
     "name": "Rift Level 64",
@@ -727,7 +727,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 63)}"
   },
   {
     "name": "Rift Level 65",
@@ -736,7 +736,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 64)}"
   },
   {
     "name": "Rift Level 66",
@@ -745,7 +745,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 65)}"
   },
   {
     "name": "Rift Level 67",
@@ -754,7 +754,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 66)}"
   },
   {
     "name": "Rift Level 68",
@@ -763,7 +763,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 67)}"
   },
   {
     "name": "Rift Level 69",
@@ -772,7 +772,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 68)}"
   },
   {
     "name": "Rift Level 70",
@@ -781,7 +781,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 69)}"
   },
   {
     "name": "Rift Level 71",
@@ -790,7 +790,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 70)}"
   },
   {
     "name": "Rift Level 72",
@@ -799,7 +799,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 71)}"
   },
   {
     "name": "Rift Level 73",
@@ -808,7 +808,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 72)}"
   },
   {
     "name": "Rift Level 74",
@@ -817,7 +817,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 73)}"
   },
   {
     "name": "Rift Level 75",
@@ -826,7 +826,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 74)}"
   },
   {
     "name": "Rift Level 76",
@@ -835,7 +835,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 75)}"
   },
   {
     "name": "Rift Level 77",
@@ -844,7 +844,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 76)}"
   },
   {
     "name": "Rift Level 78",
@@ -853,7 +853,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 77)}"
   },
   {
     "name": "Rift Level 79",
@@ -862,7 +862,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 78)}"
   },
   {
     "name": "Rift Level 80",
@@ -871,7 +871,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 79)}"
   },
   {
     "name": "Rift Level 81",
@@ -880,7 +880,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 80)}"
   },
   {
     "name": "Rift Level 82",
@@ -889,7 +889,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 81)}"
   },
   {
     "name": "Rift Level 83",
@@ -898,7 +898,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 82)}"
   },
   {
     "name": "Rift Level 84",
@@ -907,7 +907,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 83)}"
   },
   {
     "name": "Rift Level 85",
@@ -916,7 +916,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 84)}"
   },
   {
     "name": "Rift Level 86",
@@ -925,7 +925,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 85)}"
   },
   {
     "name": "Rift Level 87",
@@ -934,7 +934,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 86)}"
   },
   {
     "name": "Rift Level 88",
@@ -943,7 +943,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 87)}"
   },
   {
     "name": "Rift Level 89",
@@ -952,7 +952,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 88)}"
   },
   {
     "name": "Rift Level 90",
@@ -961,7 +961,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 89)}"
   },
   {
     "name": "Rift Level 91",
@@ -970,7 +970,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 90)}"
   },
   {
     "name": "Rift Level 92",
@@ -979,7 +979,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 91)}"
   },
   {
     "name": "Rift Level 93",
@@ -988,7 +988,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 92)}"
   },
   {
     "name": "Rift Level 94",
@@ -997,7 +997,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 93)}"
   },
   {
     "name": "Rift Level 95",
@@ -1006,7 +1006,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 94)}"
   },
   {
     "name": "Rift Level 96",
@@ -1015,7 +1015,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 95)}"
   },
   {
     "name": "Rift Level 97",
@@ -1024,7 +1024,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 96)}"
   },
   {
     "name": "Rift Level 98",
@@ -1033,7 +1033,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 97)}"
   },
   {
     "name": "Rift Level 99",
@@ -1042,7 +1042,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 98)}"
   },
   {
     "name": "Rift Level 100",
@@ -1051,7 +1051,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 99)}"
   },
   {
     "name": "Rift Level 101",
@@ -1060,7 +1060,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 100)}"
   },
   {
     "name": "Rift Level 102",
@@ -1069,7 +1069,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 101)}"
   },
   {
     "name": "Rift Level 103",
@@ -1078,7 +1078,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 102)}"
   },
   {
     "name": "Rift Level 104",
@@ -1087,7 +1087,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 103)}"
   },
   {
     "name": "Rift Level 105",
@@ -1096,7 +1096,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 104)}"
   },
   {
     "name": "Rift Level 106",
@@ -1105,7 +1105,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 105)}"
   },
   {
     "name": "Rift Level 107",
@@ -1114,7 +1114,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 106)}"
   },
   {
     "name": "Rift Level 108",
@@ -1123,7 +1123,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 107)}"
   },
   {
     "name": "Rift Level 109",
@@ -1132,7 +1132,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 108)}"
   },
   {
     "name": "Rift Level 110",
@@ -1141,7 +1141,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 109)}"
   },
   {
     "name": "Rift Level 111",
@@ -1150,7 +1150,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 110)}"
   },
   {
     "name": "Rift Level 112",
@@ -1159,7 +1159,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 111)}"
   },
   {
     "name": "Rift Level 113",
@@ -1168,7 +1168,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 112)}"
   },
   {
     "name": "Rift Level 114",
@@ -1177,7 +1177,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 113)}"
   },
   {
     "name": "Rift Level 115",
@@ -1186,7 +1186,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 114)}"
   },
   {
     "name": "Rift Level 116",
@@ -1195,7 +1195,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 115)}"
   },
   {
     "name": "Rift Level 117",
@@ -1204,7 +1204,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 116)}"
   },
   {
     "name": "Rift Level 118",
@@ -1213,7 +1213,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 117)}"
   },
   {
     "name": "Rift Level 119",
@@ -1222,7 +1222,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 118)}"
   },
   {
     "name": "Rift Level 120",
@@ -1231,7 +1231,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 119)}"
   },
   {
     "name": "Rift Level 121",
@@ -1240,7 +1240,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 120)}"
   },
   {
     "name": "Rift Level 122",
@@ -1249,7 +1249,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 121)}"
   },
   {
     "name": "Rift Level 123",
@@ -1258,7 +1258,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 122)}"
   },
   {
     "name": "Rift Level 124",
@@ -1267,7 +1267,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 123)}"
   },
   {
     "name": "Rift Level 125",
@@ -1276,7 +1276,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 124)}"
   },
   {
     "name": "Rift Level 126",
@@ -1285,7 +1285,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 125)}"
   },
   {
     "name": "Rift Level 127",
@@ -1294,7 +1294,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 126)}"
   },
   {
     "name": "Rift Level 128",
@@ -1303,7 +1303,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 127)}"
   },
   {
     "name": "Rift Level 129",
@@ -1312,7 +1312,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 128)}"
   },
   {
     "name": "Rift Level 130",
@@ -1321,7 +1321,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 129)}"
   },
   {
     "name": "Rift Level 131",
@@ -1330,7 +1330,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 130)}"
   },
   {
     "name": "Rift Level 132",
@@ -1339,7 +1339,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 131)}"
   },
   {
     "name": "Rift Level 133",
@@ -1348,7 +1348,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 132)}"
   },
   {
     "name": "Rift Level 134",
@@ -1357,7 +1357,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 133)}"
   },
   {
     "name": "Rift Level 135",
@@ -1366,7 +1366,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 134)}"
   },
   {
     "name": "Rift Level 136",
@@ -1375,7 +1375,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 135)}"
   },
   {
     "name": "Rift Level 137",
@@ -1384,7 +1384,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 136)}"
   },
   {
     "name": "Rift Level 138",
@@ -1393,7 +1393,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 137)}"
   },
   {
     "name": "Rift Level 139",
@@ -1402,7 +1402,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 138)}"
   },
   {
     "name": "Rift Level 140",
@@ -1411,7 +1411,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 139)}"
   },
   {
     "name": "Rift Level 141",
@@ -1420,7 +1420,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 140)}"
   },
   {
     "name": "Rift Level 142",
@@ -1429,7 +1429,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 141)}"
   },
   {
     "name": "Rift Level 143",
@@ -1438,7 +1438,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 142)}"
   },
   {
     "name": "Rift Level 144",
@@ -1447,7 +1447,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 143)}"
   },
   {
     "name": "Rift Level 145",
@@ -1456,7 +1456,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 144)}"
   },
   {
     "name": "Rift Level 146",
@@ -1465,7 +1465,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 145)}"
   },
   {
     "name": "Rift Level 147",
@@ -1474,7 +1474,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 146)}"
   },
   {
     "name": "Rift Level 148",
@@ -1483,7 +1483,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 147)}"
   },
   {
     "name": "Rift Level 149",
@@ -1492,7 +1492,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 148)}"
   },
   {
     "name": "Rift Level 150",
@@ -1501,7 +1501,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 149)}"
   },
   {
     "name": "Rift Level 151",
@@ -1510,7 +1510,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 150)}"
   },
   {
     "name": "Rift Level 152",
@@ -1519,7 +1519,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 151)}"
   },
   {
     "name": "Rift Level 153",
@@ -1528,7 +1528,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 152)}"
   },
   {
     "name": "Rift Level 154",
@@ -1537,7 +1537,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 153)}"
   },
   {
     "name": "Rift Level 155",
@@ -1546,7 +1546,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 154)}"
   },
   {
     "name": "Rift Level 156",
@@ -1555,7 +1555,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 155)}"
   },
   {
     "name": "Rift Level 157",
@@ -1564,7 +1564,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 156)}"
   },
   {
     "name": "Rift Level 158",
@@ -1573,7 +1573,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 157)}"
   },
   {
     "name": "Rift Level 159",
@@ -1582,7 +1582,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 158)}"
   },
   {
     "name": "Rift Level 160",
@@ -1591,7 +1591,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 159)}"
   },
   {
     "name": "Rift Level 161",
@@ -1600,7 +1600,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 160)}"
   },
   {
     "name": "Rift Level 162",
@@ -1609,7 +1609,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 161)}"
   },
   {
     "name": "Rift Level 163",
@@ -1618,7 +1618,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 162)}"
   },
   {
     "name": "Rift Level 164",
@@ -1627,7 +1627,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 163)}"
   },
   {
     "name": "Rift Level 165",
@@ -1636,7 +1636,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 164)}"
   },
   {
     "name": "Rift Level 166",
@@ -1645,7 +1645,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 165)}"
   },
   {
     "name": "Rift Level 167",
@@ -1654,7 +1654,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 166)}"
   },
   {
     "name": "Rift Level 168",
@@ -1663,7 +1663,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 167)}"
   },
   {
     "name": "Rift Level 169",
@@ -1672,7 +1672,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 168)}"
   },
   {
     "name": "Rift Level 170",
@@ -1681,7 +1681,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 169)}"
   },
   {
     "name": "Rift Level 171",
@@ -1690,7 +1690,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 170)}"
   },
   {
     "name": "Rift Level 172",
@@ -1699,7 +1699,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 171)}"
   },
   {
     "name": "Rift Level 173",
@@ -1708,7 +1708,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 172)}"
   },
   {
     "name": "Rift Level 174",
@@ -1717,7 +1717,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 173)}"
   },
   {
     "name": "Rift Level 175",
@@ -1726,7 +1726,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 174)}"
   },
   {
     "name": "Rift Level 176",
@@ -1735,7 +1735,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 175)}"
   },
   {
     "name": "Rift Level 177",
@@ -1744,7 +1744,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 176)}"
   },
   {
     "name": "Rift Level 178",
@@ -1753,7 +1753,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 177)}"
   },
   {
     "name": "Rift Level 179",
@@ -1762,7 +1762,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 178)}"
   },
   {
     "name": "Rift Level 180",
@@ -1771,7 +1771,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 179)}"
   },
   {
     "name": "Rift Level 181",
@@ -1780,7 +1780,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 180)}"
   },
   {
     "name": "Rift Level 182",
@@ -1789,7 +1789,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 181)}"
   },
   {
     "name": "Rift Level 183",
@@ -1798,7 +1798,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 182)}"
   },
   {
     "name": "Rift Level 184",
@@ -1807,7 +1807,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 183)}"
   },
   {
     "name": "Rift Level 185",
@@ -1816,7 +1816,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 184)}"
   },
   {
     "name": "Rift Level 186",
@@ -1825,7 +1825,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 185)}"
   },
   {
     "name": "Rift Level 187",
@@ -1834,7 +1834,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 186)}"
   },
   {
     "name": "Rift Level 188",
@@ -1843,7 +1843,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 187)}"
   },
   {
     "name": "Rift Level 189",
@@ -1852,7 +1852,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 188)}"
   },
   {
     "name": "Rift Level 190",
@@ -1861,7 +1861,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 189)}"
   },
   {
     "name": "Rift Level 191",
@@ -1870,7 +1870,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 190)}"
   },
   {
     "name": "Rift Level 192",
@@ -1879,7 +1879,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 191)}"
   },
   {
     "name": "Rift Level 193",
@@ -1888,7 +1888,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 192)}"
   },
   {
     "name": "Rift Level 194",
@@ -1897,7 +1897,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 193)}"
   },
   {
     "name": "Rift Level 195",
@@ -1906,7 +1906,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 194)}"
   },
   {
     "name": "Rift Level 196",
@@ -1915,7 +1915,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 195)}"
   },
   {
     "name": "Rift Level 197",
@@ -1924,7 +1924,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 196)}"
   },
   {
     "name": "Rift Level 198",
@@ -1933,7 +1933,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 197)}"
   },
   {
     "name": "Rift Level 199",
@@ -1942,7 +1942,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 198)}"
   },
   {
     "name": "Rift Level 200",
@@ -1951,7 +1951,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 199)}"
   },
   {
     "name": "Rift Level 201",
@@ -1960,7 +1960,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 200)}"
   },
   {
     "name": "Rift Level 202",
@@ -1969,7 +1969,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 201)}"
   },
   {
     "name": "Rift Level 203",
@@ -1978,7 +1978,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 202)}"
   },
   {
     "name": "Rift Level 204",
@@ -1987,7 +1987,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 203)}"
   },
   {
     "name": "Rift Level 205",
@@ -1996,7 +1996,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 204)}"
   },
   {
     "name": "Rift Level 206",
@@ -2005,7 +2005,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 205)}"
   },
   {
     "name": "Rift Level 207",
@@ -2014,7 +2014,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 206)}"
   },
   {
     "name": "Rift Level 208",
@@ -2023,7 +2023,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 207)}"
   },
   {
     "name": "Rift Level 209",
@@ -2032,7 +2032,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 208)}"
   },
   {
     "name": "Rift Level 210",
@@ -2041,7 +2041,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 209)}"
   },
   {
     "name": "Rift Level 211",
@@ -2050,7 +2050,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 210)}"
   },
   {
     "name": "Rift Level 212",
@@ -2059,7 +2059,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 211)}"
   },
   {
     "name": "Rift Level 213",
@@ -2068,7 +2068,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 212)}"
   },
   {
     "name": "Rift Level 214",
@@ -2077,7 +2077,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 213)}"
   },
   {
     "name": "Rift Level 215",
@@ -2086,7 +2086,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 214)}"
   },
   {
     "name": "Rift Level 216",
@@ -2095,7 +2095,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 215)}"
   },
   {
     "name": "Rift Level 217",
@@ -2104,7 +2104,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 216)}"
   },
   {
     "name": "Rift Level 218",
@@ -2113,7 +2113,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 217)}"
   },
   {
     "name": "Rift Level 219",
@@ -2122,7 +2122,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 218)}"
   },
   {
     "name": "Rift Level 220",
@@ -2131,7 +2131,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 219)}"
   },
   {
     "name": "Rift Level 221",
@@ -2140,7 +2140,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 220)}"
   },
   {
     "name": "Rift Level 222",
@@ -2149,7 +2149,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 221)}"
   },
   {
     "name": "Rift Level 223",
@@ -2158,7 +2158,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 222)}"
   },
   {
     "name": "Rift Level 224",
@@ -2167,7 +2167,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 223)}"
   },
   {
     "name": "Rift Level 225",
@@ -2176,7 +2176,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 224)}"
   },
   {
     "name": "Rift Level 226",
@@ -2185,7 +2185,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 225)}"
   },
   {
     "name": "Rift Level 227",
@@ -2194,7 +2194,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 226)}"
   },
   {
     "name": "Rift Level 228",
@@ -2203,7 +2203,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 227)}"
   },
   {
     "name": "Rift Level 229",
@@ -2212,7 +2212,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 228)}"
   },
   {
     "name": "Rift Level 230",
@@ -2221,7 +2221,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 229)}"
   },
   {
     "name": "Rift Level 231",
@@ -2230,7 +2230,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 230)}"
   },
   {
     "name": "Rift Level 232",
@@ -2239,7 +2239,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 231)}"
   },
   {
     "name": "Rift Level 233",
@@ -2248,7 +2248,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 232)}"
   },
   {
     "name": "Rift Level 234",
@@ -2257,7 +2257,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 233)}"
   },
   {
     "name": "Rift Level 235",
@@ -2266,7 +2266,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 234)}"
   },
   {
     "name": "Rift Level 236",
@@ -2275,7 +2275,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 235)}"
   },
   {
     "name": "Rift Level 237",
@@ -2284,7 +2284,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 236)}"
   },
   {
     "name": "Rift Level 238",
@@ -2293,7 +2293,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 237)}"
   },
   {
     "name": "Rift Level 239",
@@ -2302,7 +2302,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 238)}"
   },
   {
     "name": "Rift Level 240",
@@ -2311,7 +2311,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 239)}"
   },
   {
     "name": "Rift Level 241",
@@ -2320,7 +2320,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 240)}"
   },
   {
     "name": "Rift Level 242",
@@ -2329,7 +2329,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 241)}"
   },
   {
     "name": "Rift Level 243",
@@ -2338,7 +2338,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 242)}"
   },
   {
     "name": "Rift Level 244",
@@ -2347,7 +2347,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 243)}"
   },
   {
     "name": "Rift Level 245",
@@ -2356,7 +2356,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 244)}"
   },
   {
     "name": "Rift Level 246",
@@ -2365,7 +2365,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 245)}"
   },
   {
     "name": "Rift Level 247",
@@ -2374,7 +2374,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 246)}"
   },
   {
     "name": "Rift Level 248",
@@ -2383,7 +2383,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 247)}"
   },
   {
     "name": "Rift Level 249",
@@ -2392,7 +2392,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 248)}"
   },
   {
     "name": "Rift Level 250",
@@ -2401,7 +2401,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 249)}"
   },
   {
     "name": "Rift Level 251",
@@ -2410,7 +2410,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 250)}"
   },
   {
     "name": "Rift Level 252",
@@ -2419,7 +2419,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 251)}"
   },
   {
     "name": "Rift Level 253",
@@ -2428,7 +2428,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 252)}"
   },
   {
     "name": "Rift Level 254",
@@ -2437,7 +2437,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 253)}"
   },
   {
     "name": "Rift Level 255",
@@ -2446,7 +2446,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 254)}"
   },
   {
     "name": "Rift Level 256",
@@ -2455,7 +2455,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 255)}"
   },
   {
     "name": "Rift Level 257",
@@ -2464,7 +2464,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 256)}"
   },
   {
     "name": "Rift Level 258",
@@ -2473,7 +2473,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 257)}"
   },
   {
     "name": "Rift Level 259",
@@ -2482,7 +2482,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 258)}"
   },
   {
     "name": "Rift Level 260",
@@ -2491,7 +2491,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 259)}"
   },
   {
     "name": "Rift Level 261",
@@ -2500,7 +2500,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 260)}"
   },
   {
     "name": "Rift Level 262",
@@ -2509,7 +2509,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 261)}"
   },
   {
     "name": "Rift Level 263",
@@ -2518,7 +2518,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 262)}"
   },
   {
     "name": "Rift Level 264",
@@ -2527,7 +2527,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 263)}"
   },
   {
     "name": "Rift Level 265",
@@ -2536,7 +2536,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 264)}"
   },
   {
     "name": "Rift Level 266",
@@ -2545,7 +2545,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 265)}"
   },
   {
     "name": "Rift Level 267",
@@ -2554,7 +2554,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 266)}"
   },
   {
     "name": "Rift Level 268",
@@ -2563,7 +2563,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 267)}"
   },
   {
     "name": "Rift Level 269",
@@ -2572,7 +2572,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 268)}"
   },
   {
     "name": "Rift Level 270",
@@ -2581,7 +2581,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 269)}"
   },
   {
     "name": "Rift Level 271",
@@ -2590,7 +2590,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 270)}"
   },
   {
     "name": "Rift Level 272",
@@ -2599,7 +2599,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 271)}"
   },
   {
     "name": "Rift Level 273",
@@ -2608,7 +2608,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 272)}"
   },
   {
     "name": "Rift Level 274",
@@ -2617,7 +2617,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 273)}"
   },
   {
     "name": "Rift Level 275",
@@ -2626,7 +2626,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 274)}"
   },
   {
     "name": "Rift Level 276",
@@ -2635,7 +2635,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 275)}"
   },
   {
     "name": "Rift Level 277",
@@ -2644,7 +2644,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 276)}"
   },
   {
     "name": "Rift Level 278",
@@ -2653,7 +2653,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 277)}"
   },
   {
     "name": "Rift Level 279",
@@ -2662,7 +2662,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 278)}"
   },
   {
     "name": "Rift Level 280",
@@ -2671,7 +2671,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 279)}"
   },
   {
     "name": "Rift Level 281",
@@ -2680,7 +2680,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 280)}"
   },
   {
     "name": "Rift Level 282",
@@ -2689,7 +2689,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 281)}"
   },
   {
     "name": "Rift Level 283",
@@ -2698,7 +2698,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 282)}"
   },
   {
     "name": "Rift Level 284",
@@ -2707,7 +2707,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 283)}"
   },
   {
     "name": "Rift Level 285",
@@ -2716,7 +2716,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 284)}"
   },
   {
     "name": "Rift Level 286",
@@ -2725,7 +2725,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 285)}"
   },
   {
     "name": "Rift Level 287",
@@ -2734,7 +2734,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 286)}"
   },
   {
     "name": "Rift Level 288",
@@ -2743,7 +2743,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 287)}"
   },
   {
     "name": "Rift Level 289",
@@ -2752,7 +2752,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 288)}"
   },
   {
     "name": "Rift Level 290",
@@ -2761,7 +2761,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 289)}"
   },
   {
     "name": "Rift Level 291",
@@ -2770,7 +2770,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 290)}"
   },
   {
     "name": "Rift Level 292",
@@ -2779,7 +2779,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 291)}"
   },
   {
     "name": "Rift Level 293",
@@ -2788,7 +2788,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 292)}"
   },
   {
     "name": "Rift Level 294",
@@ -2797,7 +2797,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 293)}"
   },
   {
     "name": "Rift Level 295",
@@ -2806,7 +2806,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 294)}"
   },
   {
     "name": "Rift Level 296",
@@ -2815,7 +2815,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 295)}"
   },
   {
     "name": "Rift Level 297",
@@ -2824,7 +2824,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 296)}"
   },
   {
     "name": "Rift Level 298",
@@ -2833,7 +2833,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 297)}"
   },
   {
     "name": "Rift Level 299",
@@ -2842,7 +2842,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 298)}"
   },
   {
     "name": "Rift Level 300",
@@ -2851,7 +2851,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 299)}"
   },
   {
     "name": "Rift Level 301",
@@ -2860,7 +2860,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 300)}"
   },
   {
     "name": "Rift Level 302",
@@ -2869,7 +2869,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 301)}"
   },
   {
     "name": "Rift Level 303",
@@ -2878,7 +2878,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 302)}"
   },
   {
     "name": "Rift Level 304",
@@ -2887,7 +2887,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 303)}"
   },
   {
     "name": "Rift Level 305",
@@ -2896,7 +2896,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 304)}"
   },
   {
     "name": "Rift Level 306",
@@ -2905,7 +2905,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 305)}"
   },
   {
     "name": "Rift Level 307",
@@ -2914,7 +2914,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 306)}"
   },
   {
     "name": "Rift Level 308",
@@ -2923,7 +2923,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 307)}"
   },
   {
     "name": "Rift Level 309",
@@ -2932,7 +2932,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 308)}"
   },
   {
     "name": "Rift Level 310",
@@ -2941,7 +2941,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 309)}"
   },
   {
     "name": "Rift Level 311",
@@ -2950,7 +2950,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 310)}"
   },
   {
     "name": "Rift Level 312",
@@ -2959,7 +2959,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 311)}"
   },
   {
     "name": "Rift Level 313",
@@ -2968,7 +2968,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 312)}"
   },
   {
     "name": "Rift Level 314",
@@ -2977,7 +2977,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 313)}"
   },
   {
     "name": "Rift Level 315",
@@ -2986,7 +2986,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 314)}"
   },
   {
     "name": "Rift Level 316",
@@ -2995,7 +2995,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 315)}"
   },
   {
     "name": "Rift Level 317",
@@ -3004,7 +3004,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 316)}"
   },
   {
     "name": "Rift Level 318",
@@ -3013,7 +3013,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 317)}"
   },
   {
     "name": "Rift Level 319",
@@ -3022,7 +3022,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 318)}"
   },
   {
     "name": "Rift Level 320",
@@ -3031,7 +3031,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 319)}"
   },
   {
     "name": "Rift Level 321",
@@ -3040,7 +3040,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 320)}"
   },
   {
     "name": "Rift Level 322",
@@ -3049,7 +3049,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 321)}"
   },
   {
     "name": "Rift Level 323",
@@ -3058,7 +3058,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 322)}"
   },
   {
     "name": "Rift Level 324",
@@ -3067,7 +3067,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 323)}"
   },
   {
     "name": "Rift Level 325",
@@ -3076,7 +3076,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 324)}"
   },
   {
     "name": "Rift Level 326",
@@ -3085,7 +3085,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 325)}"
   },
   {
     "name": "Rift Level 327",
@@ -3094,7 +3094,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 326)}"
   },
   {
     "name": "Rift Level 328",
@@ -3103,7 +3103,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 327)}"
   },
   {
     "name": "Rift Level 329",
@@ -3112,7 +3112,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 328)}"
   },
   {
     "name": "Rift Level 330",
@@ -3121,7 +3121,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 329)}"
   },
   {
     "name": "Rift Level 331",
@@ -3130,7 +3130,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 330)}"
   },
   {
     "name": "Rift Level 332",
@@ -3139,7 +3139,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 331)}"
   },
   {
     "name": "Rift Level 333",
@@ -3148,7 +3148,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 332)}"
   },
   {
     "name": "Rift Level 334",
@@ -3157,7 +3157,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 333)}"
   },
   {
     "name": "Rift Level 335",
@@ -3166,7 +3166,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 334)}"
   },
   {
     "name": "Rift Level 336",
@@ -3175,7 +3175,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 335)}"
   },
   {
     "name": "Rift Level 337",
@@ -3184,7 +3184,7 @@
       "Rift",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Rift Level 336)}"
   },
   {
     "name": "Sweet Time Willy",
@@ -3192,7 +3192,7 @@
     "category": [
       "???? Shop Items"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
   {
     "name": "Rainbow Gummies",
@@ -3201,7 +3201,7 @@
       "???? Shop Items",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
   {
     "name": "Let's See What's on the Other Side",
@@ -3210,7 +3210,7 @@
       "???? Shop Items",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
 {
     "name": "The Great Gumsby",
@@ -3219,7 +3219,7 @@
       "???? Shop Items",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
 {
     "name": "A Step Back",
@@ -3228,7 +3228,7 @@
       "???? Shop Items",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
 {
     "name": "Swap-A-Launcha",
@@ -3237,7 +3237,7 @@
       "???? Shop Items",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
 {
     "name": "Distancing",
@@ -3246,7 +3246,7 @@
       "???? Shop Items",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
 {
     "name": "Buffed Out Ready",
@@ -3255,7 +3255,7 @@
       "???? Shop Items",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
 {
     "name": "The Gummy Bag",
@@ -3264,7 +3264,7 @@
       "???? Shop Items",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
 {
     "name": "Buffed Out Infinity",
@@ -3273,7 +3273,7 @@
       "???? Shop Items",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
 {
     "name": "Camera Stabilizer",
@@ -3282,7 +3282,7 @@
       "???? Shop Items",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
   {
     "name": "Slightly Sweet Salsa",
@@ -3290,7 +3290,7 @@
     "category": [
       "Recipes"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
   {
     "name": "Rustic Guacamole",
@@ -3298,7 +3298,7 @@
     "category": [
       "Recipes"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
   {
     "name": "Simple Sopa De Tortilla",
@@ -3307,7 +3307,7 @@
       "Recipes",
       "100%"
     ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
   {
     "name": "Huevos Rancheros Express",
@@ -3316,277 +3316,7 @@
       "Recipes",
       "100%"
     ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Elastic Cables Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Rocket Slam Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Bounciness Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Speedometer Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Slippery Lotion Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Flavour Master Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Pickpocket Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Luck Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Bodybuilding Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Police Control Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Doors Destroyer Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Cake Eater Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Cakesplosion Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Aerodynamics Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Gummy Booster Maxed Out",
-    "category": [
-      "Maxed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Elastic Cables Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Rocket Slam Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Bounciness Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Speedometer Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Slippery Lotion Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Flavour Master Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Pickpocket Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Luck Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Bodybuilding Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Police Control Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Doors Destroyer Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Cake Eater Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Cakesplosion Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Aerodynamics Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
-  },
-  {
-    "count": "1",
-    "name": "Gummy Booster Max Buffed Out",
-    "category": [
-      "Max Buffed Out Upgrades",
-      "100%"
-    ],
-    "requires": ""
+    "requires": "{canReachLocation(Defeat Cookinator)}"
   },
   {
     "count": "1",
@@ -3604,7 +3334,7 @@
       "Stopwatch Mode",
       "100%"
     ],
-    "requires": ""
+    "requires": "canReachLocation(Stopwatch Mode Level 1)"
   },
   {
     "count": "1",
@@ -3613,7 +3343,7 @@
       "Stopwatch Mode",
       "100%"
     ],
-    "requires": ""
+    "requires": "canReachLocation(Stopwatch Mode Level 2)"
   },
   {
     "count": "1",
@@ -3622,7 +3352,7 @@
       "Stopwatch Mode",
       "100%"
     ],
-    "requires": ""
+    "requires": "canReachLocation(Stopwatch Mode Level 3)"
   },
   {
     "count": "1",
@@ -3631,7 +3361,7 @@
       "Stopwatch Mode",
       "100%"
     ],
-    "requires": ""
+    "requires": "canReachLocation(Stopwatch Mode Level 4)"
   },
   {
     "count": "1",
@@ -3640,7 +3370,7 @@
       "Stopwatch Mode",
       "100%"
     ],
-    "requires": ""
+    "requires": "canReachLocation(Stopwatch Mode Level 5)"
   },
   {
     "name": "100%",
@@ -3649,6 +3379,6 @@
     "category": [
       "100%"
     ],
-    "requires": ""
+    "requires": "(canReachLocation(Stopwatch Mode Level 6) and |@???? Shop Items:All| and |@Upgrades:ALL| and canReachLocation(Rift Level 337) and |@Opponents:ALL| and |@Items: ALL| and |@Special Gummies:ALL| and canReachLocation(La Bestia)"
   }
 ]
