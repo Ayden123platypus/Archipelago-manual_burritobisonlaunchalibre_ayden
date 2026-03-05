@@ -5,7 +5,7 @@
         "goal":{
             "_comment": [
                 "Goals:
-                Cookinator Hit 6: Hit Cookinator 6 times and beat the game.
+                Defeat Cookinator: Hit Cookinator 6 times and beat the game.
                 Rift Level 5: Get to Level 5 Rift.
                 Rift Level 10: Get to Level 10 Rift.
                 100%: Complete the ??? Shop, Stopwatch Mode Level 6, All Recipes, and Maxed Out and Buffed Out on all Upgrades."
@@ -18,7 +18,6 @@
         "death_link": {
             "default": false
         },
-    },
         "Rift":{
             "display_name": "Rift",
             "description": "Are you playing with the Rift?",
@@ -29,12 +28,32 @@
                 "template"
             ],
             "default": true
-        }
-    },
-    {
-        "100_percent":{
+        },
+        "100_Percent":{
             "display_name": "100%?",
             "description": "Are you doing 100%?",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false
+        },
+        "Character_Randomization":{
+            "display_name": "Character Randomization",
+            "description": "Do you want to restrict characters to items?",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": true
+        },
+        "Levels":{
+            "display_name": "",
+            "description": "Do you want to have a seperate item for each level of each upgrade, special gummy, opponent, and item? (Off = 1 item for each)",
             "type": "Toggle",
             "visibility": [
                 "simple_ui",

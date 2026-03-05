@@ -3,6 +3,15 @@
         "yaml_option": "Rift"
     },
     "100%": {
-        "yaml_option": "100_percent"
+        "yaml_option": "100_Percent"
     },
+    "Characters": {
+        "yaml_option": "Character_Randomization"
+    },
+    "Upgrades": {
+        "yaml_option": "!Upgrade_Levels"
+    },
+    "Levels": {
+        "yaml_option": "Upgrade_Levels"
+    }
 }
